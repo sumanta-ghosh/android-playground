@@ -1,7 +1,9 @@
 # HelloToast
 
-##Screenshot
+##Screenshot<br><br>
 
- ![alt text](https://github.com/sumanta-ghosh/android-playground/blob/master/HelloToast/screen1.png "Screenshot one" |width=300)
+<img src="https://github.com/sumanta-ghosh/android-playground/blob/master/HelloToast/screen1.png" width="300"/>
  
- ![alt text](https://github.com/sumanta-ghosh/android-playground/blob/master/HelloToast/screen2.png "Screenshot two" |width=300)
+<img src="https://github.com/sumanta-ghosh/android-playground/blob/master/HelloToast/screen2.png" width="300"/>
+ 
+ 
