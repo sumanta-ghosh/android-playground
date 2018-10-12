@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScrollingText</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus rhoncus ipsum,<a href="https://google.com">Google</a>sit amet auctor enim efficitur sit amet. Fusce eu tempus ligula, vel ultrices mi. Pellentesque elementum leo non urna vestibulum vestibulum eu vitae tortor. Nam vulputate at magna eget accumsan. Aliquam euismod tempus nunc, eget vestibulum augue. Quisque justo libero, volutpat sodales nunc sed, dictum ultrices tortor. Vestibulum venenatis eget arcu id convallis. Nam venenatis felis sed ante ultricies, eu lobortis justo sollicitudin. Vestibulum rhoncus nulla est, id elementum enim blandit at. Proin id quam sed justo consequat bibendum eu ut ligula. Donec vitae ante id elit rhoncus bibendum sed et mauris. Sed congue finibus porttitor. Nam et maximus nisl. Nullam hendrerit id lorem vel tempus. Nam in erat justo.
+
+Quisque hendrerit rhoncus efficitur. In hac habitasse platea dictumst. Fusce aliquam nulla mattis purus elementum, ac vestibulum metus sagittis. Curabitur volutpat leo nec tellus posuere dapibus in ac tellus. Cras quis sem lectus. Vivamus venenatis porttitor est, non tempus dui iaculis id. In vel diam quis orci interdum efficitur. Mauris posuere, nisi non maximus vulputate, sapien odio imperdiet nulla, nec tincidunt arcu nulla in purus. Nam eleifend elit tincidunt quam eleifend, ut dignissim erat elementum. Mauris diam odio, fermentum non erat sed, hendrerit laoreet mi. Maecenas semper augue vel sem aliquam luctus sit amet ut leo.
+
+Nunc sed ultrices magna, quis eleifend justo. Donec laoreet neque nec tincidunt sodales. Sed eu nisl id lacus maximus molestie id et neque. Mauris lobortis in mi eu cursus. Fusce aliquam maximus metus non elementum. Sed scelerisque enim vitae sapien scelerisque iaculis. Aenean tempor turpis eget lorem vulputate, eget imperdiet quam ornare. Cras vitae pharetra nunc, non luctus ipsum. Etiam laoreet condimentum auctor.</string>
+    <string name="article_subtitle">Article Subtitle</string>
+</resources>
