@@ -2,6 +2,7 @@ package com.implicitintents.codeguy.implicitintents;
 
 import android.content.Intent;
 import android.net.Uri;
+import android.support.v4.app.ShareCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -48,5 +49,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void shareText(View view) {
+        String txt = mShareEditText.getText().toString();
+        ShareCompat.IntentBuilder
+                .from(this)
+                .setType("text/plain")
+                .setChooserTitle("Select apps to share the text")
+                .setText(txt)
+                .startChooser();
     }
 }
