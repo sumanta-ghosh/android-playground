@@ -104,20 +104,16 @@ public class MainActivity extends Activity {
         String result;
         switch (operator) {
             case ADD:
-                result = String.valueOf(
-                        mCalculator.add(operandOne, operandTwo));
+                result = String.valueOf(mCalculator.add(operandOne, operandTwo));
                 break;
             case SUB:
-                result = String.valueOf(
-                        mCalculator.sub(operandOne, operandTwo));
+                result = String.valueOf(mCalculator.sub(operandOne, operandTwo));
                 break;
             case DIV:
-                result = String.valueOf(
-                        mCalculator.div(operandOne, operandTwo));
+                result = String.valueOf(mCalculator.div(operandOne, operandTwo));
                 break;
             case MUL:
-                result = String.valueOf(
-                        mCalculator.mul(operandOne, operandTwo));
+                result = String.valueOf(mCalculator.mul(operandOne, operandTwo));
                 break;
             default:
                 result = getString(R.string.computationError);
