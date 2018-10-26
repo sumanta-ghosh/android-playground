@@ -12,4 +12,9 @@
         android:orderInCategory="100"
         android:title="@string/action_contact_lbl"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/action_order"
+        android:orderInCategory="100"
+        android:title="@string/action_order_lbl"
+        app:showAsAction="never" />
 </menu>
