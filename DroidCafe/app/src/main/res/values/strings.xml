@@ -23,6 +23,7 @@
     <string name="pick_up">Pick up</string>
     <string name="action_contact_lbl">Contact</string>
     <string name="action_order_lbl">Order</string>
+    <string name="action_status_lbl">Status</string>
     <string-array name="labels_array">
         <item>Home</item>
         <item>Work</item>
