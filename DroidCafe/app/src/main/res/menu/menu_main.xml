@@ -22,4 +22,9 @@
         android:orderInCategory="30"
         android:title="@string/action_status_lbl"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/action_favorites"
+        android:orderInCategory="40"
+        android:title="@string/action_favorites_lbl"
+        app:showAsAction="never" />
 </menu>
