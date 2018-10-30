@@ -32,13 +32,13 @@ public class MainActivity extends AppCompatActivity {
     public boolean onContextItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.context_edit:
-                displayToast("Edit choice clicked.");
+                displayToast("Edit Choice Clicked.");
                 return true;
             case R.id.context_share:
-                displayToast("Share choice clicked.");
+                displayToast("Share Choice Clicked.");
                 return true;
             case R.id.context_delete:
-                displayToast("Delete choice clicked.");
+                displayToast("Delete Choice Clicked.");
                 return true;
             default:
                 return super.onContextItemSelected(item);
