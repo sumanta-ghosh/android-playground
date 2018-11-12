@@ -12,6 +12,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -82,20 +83,25 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_camera) {
             // Handle the camera action
+            showToastMessage("Camera menu click");
         } else if (id == R.id.nav_gallery) {
-
+            showToastMessage("Gallery menu click");
         } else if (id == R.id.nav_slideshow) {
-
+            showToastMessage("Slideshow menu click");
         } else if (id == R.id.nav_manage) {
-
+            showToastMessage("Message menu click");
         } else if (id == R.id.nav_share) {
-
+            showToastMessage("Share menu click");
         } else if (id == R.id.nav_send) {
-
+            showToastMessage("Send menu click");
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
+    }
+
+    private void showToastMessage(String msg) {
+        Toast.makeText(getApplicationContext(), msg, Toast.LENGTH_SHORT).show();
     }
 }
