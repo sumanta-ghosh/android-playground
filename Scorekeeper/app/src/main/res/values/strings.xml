@@ -6,4 +6,6 @@
     <string name="minus_button">Minus button</string>
     <string name="score_1_value">0</string>
     <string name="score_2_value">0</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
 </resources>
