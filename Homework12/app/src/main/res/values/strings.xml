@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Homework-12</string>
+    <string name="battery">Battery</string>
+    <string name="plus_lbl">+</string>
+    <string name="minus_lbl">-</string>
+</resources>
