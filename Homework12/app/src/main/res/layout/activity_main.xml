@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageViewBattery"
         android:layout_width="100dp"
         android:layout_height="200dp"
         android:contentDescription="@string/battery"
@@ -25,11 +25,13 @@
         android:layout_marginTop="60dp"
         android:layout_marginEnd="76dp"
         android:text="@string/plus_lbl"
+        android:onClick="inCrease"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+        app:layout_constraintTop_toBottomOf="@+id/imageViewBattery" />
 
     <Button
         android:id="@+id/button2"
+        android:onClick="deCrease"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -37,7 +39,7 @@
         android:layout_marginEnd="40dp"
         android:text="@string/minus_lbl"
         app:layout_constraintEnd_toStartOf="@+id/button"
-        app:layout_constraintHorizontal_bias="0.812"
+        app:layout_constraintHorizontal_bias="0.666"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+        app:layout_constraintTop_toBottomOf="@+id/imageViewBattery" />
 </android.support.constraint.ConstraintLayout>
