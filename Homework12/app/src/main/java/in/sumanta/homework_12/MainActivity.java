@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void inCrease(View v) {
-        if (batteryLevel < 3) {
+        if (batteryLevel < 6) {
             batteryLevel++;
             updateBatteryImg(batteryLevel);
         }

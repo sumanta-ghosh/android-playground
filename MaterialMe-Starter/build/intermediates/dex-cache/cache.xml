@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_a1a8b49ac0166a238f0a140d494a6d7fdfb305db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_c5fde7b30262e59c1513cf539d57d446d5b98d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_ba6bb47f0aa102fb5a36e1f2182b263c72a391c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_f40ded0dc760b73132932dd7e6269e16e7f263f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_99f015b2ee7dd309fac3cf3b261d56f324f91b50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_85536b9398386e41c3ddbb0c8d7334e2a0174234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sumanta\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="F:\android\android-playground\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_daea24787704ae1133f76b0ce6bf96ba8369ad1b.jar" />
+    </item>
+
+</items>

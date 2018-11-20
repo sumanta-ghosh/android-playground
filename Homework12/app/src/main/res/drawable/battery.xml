@@ -10,6 +10,15 @@
         android:drawable="@drawable/ic_battery_50"
         android:maxLevel="2" />
     <item
-        android:drawable="@drawable/ic_battery_100"
+        android:drawable="@drawable/ic_battery_60"
         android:maxLevel="3" />
+    <item
+        android:drawable="@drawable/ic_battery_80"
+        android:maxLevel="4" />
+    <item
+        android:drawable="@drawable/ic_battery_90"
+        android:maxLevel="5" />
+    <item
+        android:drawable="@drawable/ic_battery_100"
+        android:maxLevel="6" />
 </level-list>
