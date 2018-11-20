@@ -86,7 +86,7 @@ class SportsAdapter extends RecyclerView.Adapter<SportsAdapter.ViewHolder>  {
     /**
      * ViewHolder class that represents each row of data in the RecyclerView
      */
-    class ViewHolder extends RecyclerView.ViewHolder {
+    class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
 
         //Member Variables for the TextViews
         private ImageView mSportsImage;
@@ -112,6 +112,11 @@ class SportsAdapter extends RecyclerView.Adapter<SportsAdapter.ViewHolder>  {
             mTitleText.setText(currentSport.getTitle());
             mInfoText.setText(currentSport.getInfo());
 
+        }
+
+        @Override
+        public void onClick(View v) {
+            
         }
     }
 }

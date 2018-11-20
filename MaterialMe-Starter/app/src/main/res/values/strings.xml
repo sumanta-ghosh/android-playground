@@ -18,6 +18,10 @@
     <string name="title_placeholder">Title</string>
     <string name="news_placeholder">News</string>
     <string name="sports_info_placeholder">Here is some news</string>
+    <string name="newsTitleDetailsTxt">Almost a year ago, Sushma Swaraj met Narendra Modi with an unusual request — to allow her not to contest the 2019 Lok Sabha election. She had undergone kidney transplant surgery in December 2017 after being admitted to the All-India Institute of Medical Sciences for around a month.
+
+Over the past four years through her performance as Minister of External Affairs, she had the gained confidence and goodwill of the prime minister. On some occasions, Modi had publicly lauded her work, particularly in helping and evacuating Indians faced with distressing situations abroad. Her decision not to contest the next election must therefore have surprised him.</string>
+    <string name="titleDetailsTxt">Sushma Swaraj says she won\'t contest 2019 Lok Sabha polls: Is RS term on the cards or will EAM spring surprise?</string>
 
     <string-array name="sports_titles">
         <item>Baseball</item>
