@@ -22,6 +22,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.helper.ItemTouchHelper;
+import android.util.Log;
 import android.view.View;
 
 import java.util.ArrayList;
@@ -43,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Initialize the RecyclerView
-        mRecyclerView = (RecyclerView) findViewById(R.id.recyclerView);
+        mRecyclerView = findViewById(R.id.recyclerView);
 
         //Set the Layout Manager
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
@@ -74,7 +75,15 @@ public class MainActivity extends AppCompatActivity {
         });
         helper.attachToRecyclerView(mRecyclerView);
         //Get the data
-        initializeData();
+        if (savedInstanceState == null || !savedInstanceState.containsKey("mSportsData")) {
+            initializeData();
+        } else {
+            mSportsData = savedInstanceState.getParcelableArrayList("mSportsData");
+            Sport ab = mSportsData.get(1);
+            Log.d("SKG",ab.getTitle());
+            mAdapter.notifyDataSetChanged();
+        }
+
     }
 
     /**
@@ -93,12 +102,20 @@ public class MainActivity extends AppCompatActivity {
             mSportsData.add(new Sport(sportsList[i], sportsInfo[i], sportsImageResources.getResourceId(i, 0)));
         }
 
+
         //Notify the adapter of the change
         mAdapter.notifyDataSetChanged();
         sportsImageResources.recycle();
     }
 
+    public void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        //save the current text color
+        outState.putParcelableArrayList("mSportsData", mSportsData);
+    }
+
     public void resetSports(View view) {
+        Log.d("SKG", "Size: " + mSportsData.size());
         initializeData();
     }
 }
