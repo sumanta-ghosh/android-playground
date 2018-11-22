@@ -28,7 +28,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/transitionsandanimations/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="388">
@@ -40,8 +40,8 @@
       <file leaf-file-name="BaseClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/transitionsandanimations/BaseClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="141" column="162" selection-start-line="141" selection-start-column="161" selection-end-line="141" selection-end-column="165" />
+            <state relative-caret-position="1564">
+              <caret line="141" column="86" selection-start-line="141" selection-start-column="58" selection-end-line="141" selection-end-column="86" />
               <folding>
                 <element signature="e#2717#3277#0" expanded="true" />
                 <element signature="e#3276#3277#0" expanded="true" />
@@ -52,15 +52,6 @@
                 <element signature="e#5640#6272#0" expanded="true" />
                 <element signature="e#6271#6272#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pair.java" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/android/util/Pair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -2371,7 +2362,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MaterialMe-Starter" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -2581,17 +2572,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/transitionsandanimations/MainActivity.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/android/util/Pair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="44" column="19" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="23" />
+        <state relative-caret-position="187">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/transitionsandanimations/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="141" column="162" selection-start-line="141" selection-start-column="161" selection-end-line="141" selection-end-column="165" />
+        <state relative-caret-position="1564">
+          <caret line="141" column="86" selection-start-line="141" selection-start-column="58" selection-end-line="141" selection-end-column="86" />
           <folding>
             <element signature="e#2717#3277#0" expanded="true" />
             <element signature="e#3276#3277#0" expanded="true" />
@@ -2605,10 +2596,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/android/util/Pair.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/transitionsandanimations/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="388">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="23" />
         </state>
       </provider>
     </entry>
