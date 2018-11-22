@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:17:1-36:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\62fc94d78248aaf92a440f3b9108723f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3806f9e515b7f844b68d2bcd66ca4d4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9229bb3b2caf36d116f6675b9efcb62e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\60169cf1a4be4991b8788f3e249508e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7530001bc4ca1facf50619e62a72c13b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8bfdfa77cf027d823f5e1ff800bf1a80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\72af734ed3daeac27a78d0e7da88d0e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5f7356242eeb748bbd59899aa834edbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e4887a02c86da7a27d82d1a3c7ca0141\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d2242a7f7b07036e04c4cdf1364d9cbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8947b097b54883fcce640c58d4e1fde2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7932f56b88243ef8ef636463d71bf942\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b68c507ea55a29a9131895313791474d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\814c1cf1ae788204da8161398363bdc0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9c5397c57a32c1667aeecfbfdadb25fd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8d9baa045f15f5035bd94ade66a9bab1\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:17:1-36:12
+	package
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:18:5-59
+		INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:17:1-36:12
+		INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:17:1-36:12
+		INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:20:5-34:19
+	android:supportsRtl
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.transitionsandanimations.MainActivity
+ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.android.transitionsandanimations.SecondActivity
+ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:33:9-52
+	android:name
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml:33:19-49
+uses-sdk
+INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\62fc94d78248aaf92a440f3b9108723f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\62fc94d78248aaf92a440f3b9108723f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3806f9e515b7f844b68d2bcd66ca4d4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3806f9e515b7f844b68d2bcd66ca4d4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9229bb3b2caf36d116f6675b9efcb62e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9229bb3b2caf36d116f6675b9efcb62e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\60169cf1a4be4991b8788f3e249508e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\60169cf1a4be4991b8788f3e249508e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7530001bc4ca1facf50619e62a72c13b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7530001bc4ca1facf50619e62a72c13b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8bfdfa77cf027d823f5e1ff800bf1a80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8bfdfa77cf027d823f5e1ff800bf1a80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\72af734ed3daeac27a78d0e7da88d0e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\72af734ed3daeac27a78d0e7da88d0e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5f7356242eeb748bbd59899aa834edbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5f7356242eeb748bbd59899aa834edbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e4887a02c86da7a27d82d1a3c7ca0141\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e4887a02c86da7a27d82d1a3c7ca0141\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d2242a7f7b07036e04c4cdf1364d9cbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d2242a7f7b07036e04c4cdf1364d9cbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8947b097b54883fcce640c58d4e1fde2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8947b097b54883fcce640c58d4e1fde2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7932f56b88243ef8ef636463d71bf942\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7932f56b88243ef8ef636463d71bf942\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b68c507ea55a29a9131895313791474d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b68c507ea55a29a9131895313791474d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\814c1cf1ae788204da8161398363bdc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\814c1cf1ae788204da8161398363bdc0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9c5397c57a32c1667aeecfbfdadb25fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9c5397c57a32c1667aeecfbfdadb25fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8d9baa045f15f5035bd94ade66a9bab1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sumanta\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8d9baa045f15f5035bd94ade66a9bab1\AndroidManifest.xml:20:5-44
+INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+		ADDED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android\android-playground\TransitionsandAnimations\app\src\main\AndroidManifest.xml
