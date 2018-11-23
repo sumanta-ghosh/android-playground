@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void sendCustomBroadcast(View view) {
         Intent customBroadcastIntent = new Intent(ACTION_CUSTOM_BROADCAST);
+        customBroadcastIntent.putExtra("VALUE",100);
         LocalBroadcastManager.getInstance(this).sendBroadcast(customBroadcastIntent);
     }
 }

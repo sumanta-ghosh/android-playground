@@ -22,7 +22,8 @@ public class CustomReceiver extends BroadcastReceiver {
                     toastMessage = "Power disconnected!";
                     break;
                 case ACTION_CUSTOM_BROADCAST:
-                    toastMessage = "Custom Broadcast Received";
+                    int i = intent.getIntExtra("VALUE", 0);
+                    toastMessage = "Custom Broadcast Received " + i;
                     break;
                 case Intent.ACTION_HEADSET_PLUG:
                     toastMessage = "Head set plugged in..";
