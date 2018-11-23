@@ -2,8 +2,10 @@ package in.sumanta.powerreceiver;
 
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.support.v4.content.LocalBroadcastManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
     private CustomReceiver mReceiver = new CustomReceiver();
@@ -18,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         intentFilter.addAction(Intent.ACTION_POWER_CONNECTED);
         intentFilter.addAction(Intent.ACTION_POWER_DISCONNECTED);
 
+        LocalBroadcastManager.getInstance(this).registerReceiver(mReceiver, new IntentFilter(ACTION_CUSTOM_BROADCAST));
+
         this.registerReceiver(mReceiver, intentFilter);
     }
 
@@ -25,6 +29,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onDestroy() {
         //Unregister the receiver
         this.unregisterReceiver(mReceiver);
+        LocalBroadcastManager.getInstance(this).unregisterReceiver(mReceiver);
         super.onDestroy();
+    }
+
+    public void sendCustomBroadcast(View view) {
+        Intent customBroadcastIntent = new Intent(ACTION_CUSTOM_BROADCAST);
+        LocalBroadcastManager.getInstance(this).sendBroadcast(customBroadcastIntent);
     }
 }
